@@ -1,0 +1,6 @@
+{
+  "name": "My Learning",
+  "description": "A modern, modular dark-themed learning portfolio to organize topics and subtopics, track checkbox completion, and view automatic progress calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
